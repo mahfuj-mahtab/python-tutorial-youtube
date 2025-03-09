@@ -1,0 +1,13 @@
+# my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# for num in my_list:
+#     if(num == 5):
+#         continue
+#     print(num)
+
+a = list(range(1,10,1))
+print(a)
+
+for i in range(1,21,1):
+    print('hello world')
+else:
+    print('loop finished')
